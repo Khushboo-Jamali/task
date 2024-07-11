@@ -10,7 +10,7 @@
     table {
         width: 50%;
         border-collapse: collapse;
-        background-color: pink;
+        background-color: skyblue;
         margin-top: 50px;
 
 
